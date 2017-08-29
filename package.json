@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/yz20107610738/0821-2#readme",
   "dependencies": {
-    "react": "^15.6.1"
+    "react": "^15.6.1",
+    "react-router": "^4.2.0"
   }
 }
